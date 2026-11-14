@@ -5,10 +5,11 @@ réexpliquer le projet à chaque conversation. Ouvre-le, regarde les images, et 
 
 ## Dépôt GitHub
 
-- **GitHub** : https://github.com/roody973/DucsocialBot (privé)
+- **Dépôt de contexte** : https://github.com/roody973/DucsocialBot (privé)
+- **Dépôt du studio** : https://github.com/roody973/studio-video-9-16 (public) — contient une copie de ce dossier.
 - **Clone Hermes** : `~/.hermes/profiles/social/workspace/DucsocialBot`
 - **SSH Hermes** : `git@github-ducsocial:roody973/DucsocialBot.git`
-- **Clé** : `~/.ssh/ducsocial_github`, deploy key écriture sur le dépôt.
+- **Clés** : `~/.ssh/ducsocial_github` et `~/.ssh/studio_github`, deploy keys écriture.
 
 Le dépôt contient ce README, `images/`, `docs/` et `AGENTS.md`. Les secrets (mot de passe du
 dashboard, tokens) ne sont jamais versionnés.
