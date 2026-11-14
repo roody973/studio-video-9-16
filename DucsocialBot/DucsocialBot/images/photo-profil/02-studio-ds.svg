@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#F2EBDD"/>
+  <circle cx="512" cy="512" r="407" fill="#F05A47"/>
+  <path d="M512 105 A407 407 0 0 1 820 247 L512 512 Z" fill="#152A38"/>
+  <g stroke="#F2EBDD" stroke-width="14" stroke-linecap="round">
+    <line x1="744" y1="172" x2="744" y2="278"/>
+    <line x1="691" y1="225" x2="797" y2="225"/>
+    <line x1="707" y1="188" x2="781" y2="262"/>
+    <line x1="781" y1="188" x2="707" y2="262"/>
+  </g>
+  <text x="512" y="620" text-anchor="middle" font-family="Helvetica Neue,Arial,sans-serif" font-size="350" font-weight="900" letter-spacing="-35" fill="#152A38" transform="translate(14 16)">DS</text>
+  <text x="512" y="620" text-anchor="middle" font-family="Helvetica Neue,Arial,sans-serif" font-size="350" font-weight="900" letter-spacing="-35" fill="#F2EBDD">DS</text>
+  <rect x="385" y="700" width="254" height="96" rx="48" fill="#152A38"/>
+  <path d="M486 725 L486 771 L535 748 Z" fill="#F2EBDD"/>
+</svg>
